@@ -1,10 +1,3 @@
-¡Claro! Aquí tienes un ejemplo completo de `CONTRIBUTING.md`, adaptado a un proyecto como **MetaBD**, pensado para recibir contribuciones de forma ordenada y clara:
-
----
-
-### 📄 `CONTRIBUTING.md`
-
-````markdown
 # Guía para Contribuir a MetaBD
 
 ¡Gracias por tu interés en contribuir a MetaBD! Este proyecto busca crecer con la ayuda de la comunidad. A continuación, te explicamos cómo puedes participar de forma efectiva.
