@@ -1,0 +1,32 @@
+# gitignore de PHP8.3 FULL STACK
+
+# Archivos de dependencias de Composer
+composer.lock
+vendor/
+
+# Variables de entorno (no subir nunca)
+.env
+
+# Cachés, logs y archivos temporales
+*.log
+*.cache
+*.tmp
+
+# Carpeta de almacenamiento (ajusta según tu estructura)
+storage/
+storage/*.json
+!storage/.gitkeep
+
+# Archivos del sistema / IDEs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Archivos de PHPUnit
+phpunit.xml
+phpunit.xml.dist
+
+# Configuración de despliegue o CI/CD
+*.bak
+*.old
