@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Inspector de Base de Datos</title>
+    <title>MetaBD</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
         textarea { width: 100%; height: 80px; }
@@ -16,7 +16,7 @@
 <body>
 
     <header>
-        <h1>Inspector de Base de Datos</h1>
+        <h1>MetaBD</h1>
         <nav>
             <a href="index.php">Inicio</a>
         </nav>
